@@ -4,7 +4,7 @@ from tkinter import messagebox, ttk
 from PIL import Image, ImageTk
 import qrcode
 import pyttsx3  
-  
+import time   
 
 
 os.chdir("/Applications/Python 3.11")
