@@ -38,7 +38,7 @@ I wanted to build a smart,fully autononomous system that solved these problems.
  3. Web and Mobile Versions
 
 **Thank You!!**
-  * Created by a Programmer passion about AI,Machine learning and it's real world applications.
+  * Created by a Programmer passionate about AI,Machine learning and it's real world applications.
    
 
 
